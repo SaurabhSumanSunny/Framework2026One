@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-06T22:52:32 IST" name="Default suite" finished-at="2026-02-06T22:52:38 IST" duration-ms="5656">
+    <groups>
+    </groups>
+    <test started-at="2026-02-06T22:52:32 IST" name="Default test" finished-at="2026-02-06T22:52:38 IST" duration-ms="5656">
+      <class name="QSP.DemoD">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:QSP.DemoD@222545dc]" started-at="2026-02-06T22:52:32 IST" name="LaunchBrowser" finished-at="2026-02-06T22:52:34 IST" duration-ms="2542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="testA()[pri:0, instance:QSP.DemoD@222545dc]" started-at="2026-02-06T22:52:34 IST" name="testA" finished-at="2026-02-06T22:52:37 IST" duration-ms="2495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:QSP.DemoD@222545dc]" started-at="2026-02-06T22:52:37 IST" name="closeBrowser" finished-at="2026-02-06T22:52:38 IST" duration-ms="598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- QSP.DemoD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
